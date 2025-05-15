@@ -16,3 +16,6 @@ We collaborate with researchers all over the world, with particularly strong con
 - Ritik (MS by Research), with [Arpit Agarwal](https://agarpit.github.io/)
 - Tunir Ghosh (Pre-doc), with [Parthe Pandit](https://parthe.github.io/)
 - Hari Krishna Sahoo (Dual Degree)
+- Ansamit Mitra (B. Tech.)
+- Vijaylaxmi Maitri (B. Tech.)
+- Nilesh Dhirhe (B. Tech.) with [Pranay Sharma](https://sites.google.com/view/pranay-sharma/home)
